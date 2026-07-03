@@ -38,7 +38,7 @@ export const PROJECTS = [
     description:
       'RAG-powered college assistant built with LangChain + MongoDB Atlas Vector Search. Inference via Groq with a custom embedding pipeline.',
     tags: ['LangChain', 'MongoDB Atlas', 'Groq', 'RAG'],
-    github: 'https://github.com/Meeran-Dev'
+    github: 'https://github.com/Meeran-Dev/geca-chatbot'
   },
   {
     id: 1,
@@ -46,7 +46,7 @@ export const PROJECTS = [
     description:
       'ML classifier that detects fraudulent job/internship postings. TF-IDF features, SMOTE for class imbalance, GridSearchCV for tuning. ~94% accuracy. Deployed as a Streamlit app.',
     tags: ['scikit-learn', 'TF-IDF', 'SMOTE', 'GridSearchCV', 'Streamlit'],
-    github: 'https://github.com/Meeran-Dev'
+    github: 'https://github.com/Meeran-Dev/Job-Internship-Scam-Detection'
   },
   {
     id: 2,
@@ -54,7 +54,7 @@ export const PROJECTS = [
     description:
       'Real-time messaging platform. React/Vite frontend, FastAPI backend, Redis pub/sub for live delivery, PostgreSQL for persistence.',
     tags: ['React', 'FastAPI', 'Redis', 'PostgreSQL', 'WebSocket'],
-    github: 'https://github.com/Meeran-Dev'
+    github: 'https://github.com/Meeran-Dev/LinkUp'
   },
   {
     id: 3,
@@ -62,7 +62,7 @@ export const PROJECTS = [
     description:
       'Collection of machine learning papers implemented from scratch using NumPy. Evaluated using Scikit-learn metrics.',
     tags: ['NumPy', 'Scikit-learn', 'ML Algorithms'],
-    github: 'https://github.com/Meeran-Dev'
+    github: 'https://github.com/Meeran-Dev/ml-paper-implementations'
   },
 ];
 
